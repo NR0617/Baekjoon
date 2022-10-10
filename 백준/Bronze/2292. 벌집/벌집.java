@@ -9,7 +9,6 @@ public class Main {
       int i = 1;
        
        while(N>1){
-
            N = N-(6*i);
            i = i+1;
        }
